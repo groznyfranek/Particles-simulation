@@ -1,0 +1,64 @@
+﻿  main.cpp
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(16,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(17,43): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(19,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(20,27): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(59,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\particle.h(60,14): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\PhysicsHandler.h(9,34): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\PhysicsHandler.h(10,34): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\PhysicsHandler.h(34,34): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\PhysicsHandler.h(35,34): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\simulation.h(13,55): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\simulation.h(13,48): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\simulation.h(36,52): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\Project1\simulation.h(37,52): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Project1.vcxproj -> C:\Users\Użytkownik\Desktop\studia\SEM 2\PSiO\sfml zadanie\Project1 — kopia\x64\Debug\Project1.exe
